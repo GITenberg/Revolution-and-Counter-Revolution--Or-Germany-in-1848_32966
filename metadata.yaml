@@ -1,0 +1,47 @@
+_repo: Revolution-and-Counter-Revolution--Or-Germany-in-1848_32966
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Marx, Karl
+    alias: Marx, Heinrich Karl
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '46'
+    url: http://www.gutenberg.org/2009/agents/46
+    wikipedia: http://en.wikipedia.org/wiki/Karl_Marx
+  - agent_name: Engels, Friedrich
+    alias: Engels, Frederick
+    birthdate: 1820
+    deathdate: 1895
+    gutenberg_agent_id: '47'
+    url: http://www.gutenberg.org/2009/agents/47
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Engels
+  editor:
+    agent_name: Aveling, Eleanor Marx
+    aliases:
+    - Marx, Tussy
+    - Marx-Aveling, Eleanor
+    - Marx, Eleanor
+    - Eveling, Eleonora Marks
+    birthdate: 1855
+    deathdate: 1898
+    gutenberg_agent_id: '902'
+    url: http://www.gutenberg.org/2009/agents/902
+    wikipedia: http://en.wikipedia.org/wiki/Eleanor_Marx
+description: ''
+gutenberg_issued: '2010-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DD'
+- !lcsh 'Germany -- History -- Revolution, 1848-1849'
+title: Revolution and Counter-Revolution; Or, Germany in 1848
+url: http://www.gutenberg.org/ebooks/32966
